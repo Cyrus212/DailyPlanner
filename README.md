@@ -19,7 +19,7 @@ Select the text area and type in your notes.
 
 **BE SURE** to click the **SAVE** icon after typing in your notes to ensure that they are saved.
 
-![alt text](assets/images/Daily-Planner.png)
+![alt text](./assets/images/Daily-Planner.png)
 
 ## Links
 
